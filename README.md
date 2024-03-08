@@ -1,4 +1,4 @@
-**Weather App**
+# Weather App
 
 This is a simple weather app that retrieves and speaks the current weather information for a given city using the WeatherAPI.
 
