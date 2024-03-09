@@ -18,6 +18,7 @@ pip install requests pyttsx3
 - pyttsx3
  
 **Usage**
+
 The app prompts the user to enter a city name. It then fetches the current weather information from the WeatherAPI and speaks out the following details:
 
 - City
